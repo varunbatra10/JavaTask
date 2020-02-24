@@ -2,8 +2,7 @@
 
 To get the project-
 1. git clone https://github.com/varunbatra10/JavaTask.git
-2. cd JavaTask
-3. Change the database username and password in application.properties. I'm using MySQl 8.0.18.
+2. Change the database username and password in application.properties. I'm using MySQl 8.0.18.
 
 
 For Import Controller-
